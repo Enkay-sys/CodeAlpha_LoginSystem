@@ -150,4 +150,4 @@ The project was manually tested end-to-end (compiled with `-Wall -Wextra`, zero 
 
 ## Author
 
-Enkay — Computer Science undergraduate, KNUST. Built as part of the CodeAlpha C++ Programming Internship.
+Julian Odei Okyere — Computer Science undergraduate, KNUST. Built as part of the CodeAlpha C++ Programming Internship.
