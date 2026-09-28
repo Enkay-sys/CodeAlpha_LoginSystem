@@ -1,0 +1,7 @@
+# Build artifacts
+login_system
+*.o
+*.exe
+
+# Runtime-generated user database (do NOT commit real user data)
+users.txt
